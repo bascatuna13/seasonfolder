@@ -1,3 +1,3 @@
 # seasonfolder
-guess seasons
+user guess seasons
 
